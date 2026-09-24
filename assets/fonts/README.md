@@ -1,0 +1,1 @@
+These six Neue Montreal OpenType files came from the font archive supplied for this portfolio. `styles.css` loads each available weight and style directly. Keep the font files with the site when publishing it.
